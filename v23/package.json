@@ -1,0 +1,14 @@
+{
+  "name": "jest-puppeteer-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -t false"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "23.0.0"
+  }
+}
